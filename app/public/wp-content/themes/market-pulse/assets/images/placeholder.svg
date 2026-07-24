@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Market Pulse</title>
+  <desc id="desc">金融市场资讯占位图</desc>
+  <rect width="720" height="420" fill="#111923"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M58 312L148 256L226 280L314 178L397 216L486 115L566 158L662 74" stroke="#3b82f6" stroke-width="9"/>
+    <path d="M58 344H662M58 84V344" stroke="#263447" stroke-width="3"/>
+    <path d="M148 256V344M314 178V344M486 115V344M662 74V344" stroke="#1b2736" stroke-width="2"/>
+  </g>
+  <circle cx="486" cy="115" r="12" fill="#22c55e"/>
+  <text x="58" y="64" fill="#f8fafc" font-family="Arial, sans-serif" font-size="26" font-weight="700">MARKET PULSE</text>
+</svg>
+
